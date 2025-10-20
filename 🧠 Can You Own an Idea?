@@ -1,0 +1,89 @@
+# 🧠 Can You Own an Idea?
+
+**Short answer:**  
+No — not until it’s expressed in a concrete, original way.
+
+You can’t own an *idea* itself.  
+You can only own the **specific form** that idea takes once you write it, draw it, record it, or otherwise fix it in a tangible medium.
+
+---
+
+## ⚖️ The Core Rule
+
+| Concept | Example | Can You Own It? | Why |
+|----------|----------|----------------|-----|
+| Pure idea | “A boy discovers he’s a wizard and goes to a magical school.” | ❌ No | Too general — anyone can write that. |
+| Specific expression | *Harry Potter and the Sorcerer’s Stone* (J.K. Rowling) | ✅ Yes | Original story, characters, names, and setting are protected. |
+| Genre concept | “A spaceship crew explores the galaxy.” | ❌ No | Common sci-fi premise. |
+| Unique execution | *Star Trek* universe, characters, and lore | ✅ Yes | Distinct world and expression. |
+| Mechanic concept | “A player levels up by killing monsters.” | ❌ No | Generic game mechanic. |
+| Implementation | Your unique art, code, story, item names, UI, etc. | ✅ Yes | Original creative work, fixed in code or media. |
+
+---
+
+## 🧾 How the Law Divides It
+
+| Type of Protection | What It Covers | Example |
+|--------------------|----------------|---------|
+| **Copyright** | Literary, artistic, and digital works once fixed in a tangible form. | Books, art, music, software, games. |
+| **Trademark** | Source identifiers (names, logos, slogans). | “Pokémon,” Nike swoosh, Coke bottle shape. |
+| **Patent** | New, useful, non-obvious inventions or processes. | VR haptic-feedback system, mechanical design, algorithm. |
+| **Trade Secret** | Confidential information that gives a business an edge. | Coca-Cola formula, Google ranking algorithm. |
+
+---
+
+## 🧩 Examples of Public-Domain vs. Protected Expression
+
+| Example | Public-Domain Element | Protected Expression |
+|----------|----------------------|----------------------|
+| Superhero stories | “A person gains powers and fights evil.” | Specific hero designs, names, origin stories. |
+| Monster hunting | “A group hunts supernatural creatures.” | *The Witcher* world, Geralt’s character, lore, and dialogue. |
+| Magical academy | “Teens learn spells at a school.” | Hogwarts, professors, spells, and narrative arcs. |
+| Game mechanics | “Gain XP and level up.” | Your code, art assets, UI, and specific system balance. |
+
+---
+
+## 🛡️ How to “Own” Your Work in Practice
+
+1. **Fix it in a tangible form.**  
+   - Write it down, draw it, record it, or code it.  
+2. **Keep proof of creation.**  
+   - Save drafts, timestamps, emails, commits, or witnesses.  
+3. **Register it** (optional but helpful).  
+   - In the U.S., register with the Copyright Office or apply for a patent/trademark as needed.  
+4. **Use a license** if you publish it.  
+   - MIT, Creative Commons, or custom license to define how others can use it.  
+
+---
+
+## 💬 Common Myths
+
+| Myth | Reality |
+|------|----------|
+| “If I thought of it first, it’s mine.” | No — only the fixed, original expression is protected. |
+| “I mailed it to myself, so I’m covered.” | The “poor man’s copyright” has **no legal standing**. |
+| “Changing a few words makes it legal.” | Derivative works can still infringe. |
+| “If it’s online, it’s public domain.” | Copyright applies the moment it’s created, even online. |
+
+---
+
+## 📚 Educational Use Disclaimer
+
+This document is for **educational purposes only** and does not constitute legal advice.  
+For formal protection or disputes, consult an **intellectual-property attorney** or legal expert in your jurisdiction.
+
+---
+
+### ✍️ Author’s Note
+
+This page was written to help creators, writers, developers, and artists understand what they *can* and *cannot* legally own.  
+Feel free to share or fork this document with attribution.  
+If you adapt it, include this line:
+
+> “Based on ‘Can You Own an Idea?’ by Rafael Rodriguez, licensed under CC-BY 4.0.”
+
+---
+
+## 🔗 Suggested Licenses for Your Repo
+- [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) – lets others use your text with credit.  
+- [MIT License](https://opensource.org/licenses/MIT) – ideal for code examples.
